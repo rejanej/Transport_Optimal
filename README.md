@@ -1,3 +1,5 @@
+# Transport Optimal - Transfert de couleurs
+
 Le transport optimal dans le contexte du transfert de couleurs est un problème mathématique et algorithmique qui vise à transférer des couleurs d'une image source à une image cible tout en préservant les structures visuelles et en minimisant les différences perceptibles.
 
 On considère les couleurs des pixels comme des points dans un espace de couleurs (par exemple, l'espace RGB).
